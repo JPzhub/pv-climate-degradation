@@ -48,7 +48,7 @@ netCDF4
 The climate inputs used in this study are publicly available third-party products and are therefore not redistributed in this repository:
 
 - **Future climate projections** — NASA Earth Exchange Global Daily Downscaled Projections (NEX-GDDP-CMIP6), version, SSP1-2.6, SSP2-4.5 and SSP5-8.5, seven CMIP6 models (GFDL-CM4, GFDL-ESM4, IPSL-CM6A-LR, MPI-ESM1-2-HR, MPI-ESM1-2-LR, MRI-ESM2-0, NorESM2-LM), variables `tas`, `rsds` and `sfcWind`, 2026–2100, daily, 0.25° x 0.25°. Available from the NASA NCCS archive at https://www.nccs.nasa.gov/data-collections/nex-gddp-cmip6/ and described in Thrasher et al. (2022), https://doi.org/10.1038/s41597-022-01393-4.
-- **Historical reference fields** — ERA5 hourly single-level reanalysis, 2015–2025, aggregated to daily and remapped to the same 0.25° x 0.25° grid. Available from the Copernicus Climate Data Store at https://doi.org/10.24381/cds.adbb2d47; see Hersbach et al. (2020), https://doi.org/10.1002/qj.3803.
+- **Historical reference fields** — ERA5 hourly single-level reanalysis, 2015–2025, aggregated to daily. Available from the Copernicus Climate Data Store at https://doi.org/10.24381/cds.adbb2d47; see Hersbach et al. (2020), https://doi.org/10.1002/qj.3803.
 
 
 ## Usage
