@@ -1,0 +1,12 @@
+numpy>=1.23
+pandas>=1.5
+dask[dataframe]>=2023.1.0
+scikit-learn>=1.2
+shap>=0.42
+joblib>=1.2
+tqdm>=4.64
+pyarrow>=10.0
+scipy>=1.10
+matplotlib>=3.7
+xarray>=2023.1.0
+netCDF4>=1.6
